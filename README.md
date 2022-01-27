@@ -44,4 +44,4 @@ As they say practice makes perfect.
 ## Author
 
 - Frontend Mentor - [@danielkatic](https://www.frontendmentor.io/profile/danielkatic)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@katicdaniel](https://twitter.com/katicdaniel?lang=en)
