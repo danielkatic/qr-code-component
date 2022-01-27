@@ -1,0 +1,40 @@
+body {
+  background-color: #D6E2F0;
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+}
+
+.attribution { font-size: 1rem; text-align: center; }
+.attribution a { color: #3E52A3; }
+
+.container {
+  width: 320px;
+  background-color: #FFFFFF;
+  border-radius: 5%;
+  margin: 100px auto;
+  padding: 20px;
+  text-align: center;
+}
+
+@media only screen and (min-width: 1440px) {
+  .container {
+    margin: 200px auto;
+  }
+}
+
+.qr-image {
+  border-radius: 5%;
+  max-width: 100%;
+}
+
+.qr-title {
+  font-size: 1.6rem;
+}
+
+.qr-desc {
+  color: #7B879D;
+  font-size: 0.9375rem;
+  margin: auto;
+  padding-bottom: 1.25rem;
+  width: 80%;
+}
